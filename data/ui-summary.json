@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-11-08T03:11:48.507Z",
-  "totalIssues": 45,
-  "totalOrgs": 19,
-  "totalLabels": 57,
+  "generatedAt": "2026-11-23T12:11:07.225Z",
+  "totalIssues": 131,
+  "totalOrgs": 59,
+  "totalLabels": 186,
   "topOrganizations": [
-    "AFLplusplus",
-    "AnkiDroid",
-    "ArduPilot",
-    "Boa",
-    "C2SI",
-    "cBioPortal for Cancer Genomics",
-    "checkstyle",
+    "Oppia Foundation",
+    "Internet Archive",
+    "stdlib",
+    "Meshery",
+    "LLVM Compiler Infrastructure",
+    "FreeCAD",
     "CircuitVerse.org",
-    "DBpedia",
-    "OpenAstronomy"
+    "MetaCall",
+    "checkstyle",
+    "Open Food Facts"
   ]
 }
